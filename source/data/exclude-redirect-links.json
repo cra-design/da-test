@@ -2,5 +2,29 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit.html",
     "destination": "dental-benefit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/who-apply.html",
+    "destination": "dental-benefit/who-apply.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/validation.html",
+    "destination": "dental-benefit/validation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/application-denied.html",
+    "destination": "dental-benefit/application-denied.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/return-payment.html",
+    "destination": "dental-benefit/return-payment.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/contact.html",
+    "destination": "dental-benefit/contact.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/statistics.html",
+    "destination": "dental-benefit/statistics.html"
   }
 ]
