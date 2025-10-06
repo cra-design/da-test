@@ -5,7 +5,7 @@
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/who-apply.html",
-    "destination": "da-test/dental-benefit/who-apply.html"
+    "destination": "dental-benefit/who-apply.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/validation.html",
@@ -13,7 +13,7 @@
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/application-denied.html",
-    "destination": "https://cra-design.github.io/da-test/dental-benefit/application-denied.html"
+    "destination": "dental-benefit/application-denied.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/return-payment.html",
@@ -25,6 +25,6 @@
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/statistics.html",
-    "destination": "/da-test/dental-benefit/statistics.html"
+    "destination": "dental-benefit/statistics.html"
   }
 ]
