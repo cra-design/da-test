@@ -23,9 +23,9 @@ creator:
   fr: "Agence du revenu du Canada"
 
 # Custom settings
-developerOptions: false
+developerOptions: true
 devOptionsLocStore: "gitCRATemplateDevOptions"
-exitByURL: false
+exitByURL: true
 exitPage:
   en: "/da-test/source/exit-intent-e.html"
   fr: "/da-test/source/exit-intent-f.html"
