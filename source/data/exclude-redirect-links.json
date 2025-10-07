@@ -28,6 +28,10 @@
     "destination": "/da-test/revenue-agency/services/child-family-benefits/dental-benefit/statistics.html"
   },
   {
+    "origin": "https://www.canada.ca/en/services/taxes/savings-and-pension-plans.html",
+    "destination": "/da-test/services/taxes/savings-and-pension-plans.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies.html",
     "destination": "/da-test/services/taxes/excise-taxes-duties-and-levies.html"
   }
