@@ -2,13 +2,5 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit.html",
     "destination": "/da-test/dental-benefit.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/who-apply.html",
-    "destination": "/da-test/dental-benefit/who-apply.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/validation.html",
-    "destination": "/da-test/dental-benefit/validation.html"
   }
 ]
