@@ -43,8 +43,6 @@ notedLinks:
     <div class="row">
         <div class="col-md-8">
             <p><span class="label label-danger">Status: Closed</span></p>
-            <div class="clearfix"></div>
-            <section data-ajax-replace="https://www.canada.ca/content/dam/cra-arc/includes/housing-dental.txt#dental-benefit-eng"></section>
             <h2 class="h3">On this page</h2>
             <ul>
                 <li><a href="#lgblty">Eligibility criteria (benefit closed)</a></li>
@@ -59,14 +57,6 @@ notedLinks:
             </ul>
             <p>There were 2 types of payments for this benefit. The original payment was for dental care received in the specific period you applied for. The additional payment was available if your child had dental costs that were more than $650 in one of the benefit periods. The eligibility criteria was specific to the period when your child received dental care and the type of payment you received.</p>
             <!--URL mapping & FF-->
-            <div
-                data-wb-urlmapping='{
-		"period=p1": [{ "action": "selectInput", "source": "#eligibilityOptions", "value": "Period 1: Original payment" },{ "action": "removeClass", "source": ".show-p1", "class": "hidden" },{ "action": "addClass", "source": "#action-no-msg", "class": "hidden" }],
-		"period=p2": [{ "action": "selectInput", "source": "#eligibilityOptions", "value": "Period 2: Original payment" },{ "action": "removeClass", "source": ".show-p2", "class": "hidden" },{ "action": "addClass", "source": "#action-no-msg", "class": "hidden" }],
-		"period=ap1": [{ "action": "selectInput", "source": "#eligibilityOptions", "value": "Period 1: Additional payment" },{ "action": "removeClass", "source": ".show-ap1", "class": "hidden" },{ "action": "addClass", "source": "#action-no-msg", "class": "hidden" }],
-		"period=ap2": [{ "action": "selectInput", "source": "#eligibilityOptions", "value": "Period 2: Additional payment" },{ "action": "removeClass", "source": ".show-ap2", "class": "hidden" },{ "action": "addClass", "source": "#action-no-msg", "class": "hidden" }]
-	}'
-            ></div>
             <div class="wb-frmvld gc-font-2019">
                 <form id="eligibilityOptions" class="hidden">
                     <div class="wb-fieldflow" data-wb-fieldflow='{"noForm": true, "isoptional": true, "gcChckbxrdio":true, "renderas":"radio", "reset": {"action": "addClass", "source": ".chcklst,#action-no-msg", "class": "hidden", "live": true}, "itmselector": "#options", "unhideelm": "#eligibilityOptions", "hideelm": ".chcklst"}'>
@@ -674,25 +664,5 @@ notedLinks:
                 </ul>
             </nav>
         </div>
-    </div>
-</div>
-<div class="container">
-    <div class="pagedetails">
-        <h2 class="wb-inv">Page details</h2>
-        <div class="row">
-            <div class="col-sm-8 col-md-9 col-lg-9">
-                <div class="wb-disable-allow" data-ajax-replace="https://www.canada.ca/etc/designs/canada/wet-boew/assets/feedback/page-feedback-en.html" data-feedback-section="Dental" data-feedback-theme="Taxes"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="container">
-    <div class="pagedetails">
-        <dl id="wb-dtmd">
-            <dt>Date modified:</dt>
-            <dd>
-                <time property="dateModified">2024-07-01</time>
-            </dd>
-        </dl>
     </div>
 </div>
