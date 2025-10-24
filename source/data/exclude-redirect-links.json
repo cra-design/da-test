@@ -1,0 +1,22 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax.html",
+    "destination": "/da-test/en/services/taxes/income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax.html",
+    "destination": "/da-test/en/services/taxes/income-tax/personal-income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/business-or-professional-income.html",
+    "destination": "/da-test/en/services/taxes/income-tax/business-or-professional-income.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/corporation-income-tax.html",
+    "destination": "/da-test/en/services/taxes/income-tax/corporation-income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/trust-income-tax.html",
+    "destination": "/da-test/en/services/taxes/income-tax/trust-income-tax.html"
+  }
+]
